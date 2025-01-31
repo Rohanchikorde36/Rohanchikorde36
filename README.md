@@ -1,19 +1,11 @@
-# 👋 Hi, I'm [Your Name]  
+# 👋 Hi, I'm Rohan O Chikorde  
 💻 Passionate about coding, automation, and machine learning!  
 🚀 Always eager to explore new technologies and build impactful projects.  
 
 ## 📚 Education  
 
-🎓 **B.E in Computer Science and Engineering** (CGPA: 8.09)  
-🏫 Gogte Institute of Technology, Belagavi, Karnataka *(2023 - 2025)*  
-
-🎓 **Diploma in Computer Science and Engineering** (82%)  
-🏫 Maratha Mandal Polytechnic, Belagavi, Karnataka *(2019 - 2022)*  
-
-🏫 **Primary & High School** (74%)  
-M.V.M English Medium School, Belagavi, Karnataka *(2018 - 2019)*  
-
----
+🎓 **B.E in Computer Science and Engineering*  
+🏫 Gogte Institute of Technology, Belagavi, Karnataka 
 
 ## 🚀 Skills & Technologies  
 
@@ -40,6 +32,4 @@ M.V.M English Medium School, Belagavi, Karnataka *(2018 - 2019)*
 
 ---
 
-## 📫 Connect with Me  
-🔗 [LinkedIn](your-linkedin-profile) | 🐦 [Twitter](your-twitter-profile) | 📂 [Portfolio](your-portfolio-link)  
 
